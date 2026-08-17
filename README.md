@@ -1,5 +1,7 @@
 # ✈️ Airport Management System (Java CLI)
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A **Command Line Interface (CLI)** based **Airport Management System** developed in **Java** using **Object-Oriented Programming (OOP)** and **Data Structures** concepts. The project simulates airport operations such as passenger management, flight scheduling, staff management, ticket booking, and airport administration.
 
 ---
@@ -147,3 +149,9 @@ B.Tech – Computer Science & Information Technology
 ## ⭐ Repository
 
 If you found this project helpful, consider giving the repository a **⭐ Star**.
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 MR. ADITYA PARMAR. All rights reserved.
